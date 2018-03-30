@@ -1,11 +1,8 @@
 <pre>
 Liste des variables smarty utilisées avec prestashop
-</pre>
 
-<pre>
 $category
 $category->name
-</pre>
 $category->description
 $category->id_image
 $category->link_rewrite
@@ -168,3 +165,5 @@ Nom et prénom du client actuellement connecté.
 {$priceDisplay}
 
 Paramètre actuel de l’affichage des prix (identifiant)
+
+</pre>
