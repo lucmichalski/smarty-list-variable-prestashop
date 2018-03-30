@@ -4,8 +4,8 @@ Liste des variables smarty utilisées avec prestashop
 
 <pre>
 $category
-</pre>
 $category->name
+</pre>
 $category->description
 $category->id_image
 $category->link_rewrite
