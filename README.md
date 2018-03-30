@@ -1,0 +1,1 @@
+# smarty_list_variable_prestashop
