@@ -1,5 +1,10 @@
+<pre>
 Liste des variables smarty utilisées avec prestashop
+</pre>
+
+<pre>
 $category
+</pre>
 $category->name
 $category->description
 $category->id_image
